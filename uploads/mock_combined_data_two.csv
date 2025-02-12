@@ -1,0 +1,1000 @@
+Timestamp,engine_cooling,engine_oil_pressure,txn_oil_pressure
+2024-01-01 00:00:00,102.12°C,9.27 Pa,1.43 Pa
+2024-01-01 00:01:00,102.13°C,9.28 Pa,1.43 Pa
+2024-01-01 00:02:00,102.15°C,9.29 Pa,1.43 Pa
+2024-01-01 00:03:00,102.16°C,9.30 Pa,1.43 Pa
+2024-01-01 00:04:00,102.17°C,9.31 Pa,1.43 Pa
+2024-01-01 00:05:00,102.19°C,9.32 Pa,1.43 Pa
+2024-01-01 00:06:00,102.20°C,9.33 Pa,1.43 Pa
+2024-01-01 00:07:00,102.21°C,9.34 Pa,1.43 Pa
+2024-01-01 00:08:00,102.23°C,9.35 Pa,1.44 Pa
+2024-01-01 00:09:00,102.24°C,9.36 Pa,1.44 Pa
+2024-01-01 00:10:00,102.25°C,9.38 Pa,1.44 Pa
+2024-01-01 00:11:00,102.26°C,9.39 Pa,1.44 Pa
+2024-01-01 00:12:00,102.28°C,9.40 Pa,1.44 Pa
+2024-01-01 00:13:00,102.29°C,9.41 Pa,1.44 Pa
+2024-01-01 00:14:00,102.30°C,9.42 Pa,1.44 Pa
+2024-01-01 00:15:00,102.31°C,9.43 Pa,1.44 Pa
+2024-01-01 00:16:00,102.32°C,9.44 Pa,1.44 Pa
+2024-01-01 00:17:00,102.34°C,9.45 Pa,1.44 Pa
+2024-01-01 00:18:00,102.35°C,9.46 Pa,1.45 Pa
+2024-01-01 00:19:00,102.36°C,9.47 Pa,1.45 Pa
+2024-01-01 00:20:00,102.37°C,9.48 Pa,1.45 Pa
+2024-01-01 00:21:00,102.38°C,9.49 Pa,1.45 Pa
+2024-01-01 00:22:00,102.39°C,9.49 Pa,1.45 Pa
+2024-01-01 00:23:00,102.40°C,9.50 Pa,1.45 Pa
+2024-01-01 00:24:00,102.42°C,9.51 Pa,1.45 Pa
+2024-01-01 00:25:00,102.43°C,9.52 Pa,1.45 Pa
+2024-01-01 00:26:00,102.44°C,9.53 Pa,1.45 Pa
+2024-01-01 00:27:00,102.45°C,9.54 Pa,1.45 Pa
+2024-01-01 00:28:00,102.46°C,9.55 Pa,1.46 Pa
+2024-01-01 00:29:00,102.47°C,9.56 Pa,1.46 Pa
+2024-01-01 00:30:00,102.48°C,9.57 Pa,1.46 Pa
+2024-01-01 00:31:00,102.49°C,9.58 Pa,1.46 Pa
+2024-01-01 00:32:00,102.51°C,"1.9 Pa, POTENTIAL PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.46 Pa
+2024-01-01 00:33:00,102.52°C,"1.9 Pa, POTENTIAL PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.46 Pa
+2024-01-01 00:34:00,102.54°C,"1.8 Pa, POTENTIAL PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.46 Pa
+2024-01-01 00:35:00,102.55°C,"1.8 Pa, POTENTIAL PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.46 Pa
+2024-01-01 00:36:00,102.56°C,"1.7 Pa, POTENTIAL PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.46 Pa
+2024-01-01 00:37:00,102.57°C,"1.7 Pa, POTENTIAL PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.46 Pa
+2024-01-01 00:38:00,102.58°C,"1.6 Pa, POTENTIAL PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.46 Pa
+2024-01-01 00:39:00,102.60°C,"1.5 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.46 Pa
+2024-01-01 00:40:00,102.61°C,"1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:41:00,102.62°C,"1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:42:00,102.63°C,"1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:43:00,102.64°C,"1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:44:00,102.66°C,"1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:45:00,102.67°C,"1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:46:00,102.68°C,"1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:47:00,102.69°C,"1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:48:00,"104.33 °C, POTENTIAL TEMPERATURE SPIKE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:49:00,"104.33 °C, POTENTIAL TEMPERATURE SPIKE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:50:00,"104.33 °C, POTENTIAL TEMPERATURE SPIKE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:51:00,"104.33 °C, POTENTIAL TEMPERATURE SPIKE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:52:00,"104.33 °C, POTENTIAL TEMPERATURE SPIKE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:53:00,"104.33 °C, POTENTIAL TEMPERATURE SPIKE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.47 Pa
+2024-01-01 00:54:00,"104.33 °C, POTENTIAL TEMPERATURE SPIKE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 00:55:00,"104.33 °C, POTENTIAL TEMPERATURE SPIKE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 00:56:00,"121.8 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 00:57:00,"123.61 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 00:58:00,"120 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 00:59:00,"128.14 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:00:00,"122.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:01:00,"125.39 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:02:00,"121.64 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:03:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:04:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:05:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:06:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:07:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:08:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:09:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.48 Pa
+2024-01-01 01:10:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:11:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:12:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:13:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:14:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:15:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:16:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:17:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:18:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:19:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:20:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:21:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:22:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:23:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:24:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:25:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:26:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:27:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:28:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:29:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:30:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:31:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:32:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:33:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.49 Pa
+2024-01-01 01:34:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:35:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:36:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:37:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:38:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:39:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:40:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:41:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:42:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:43:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:44:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:45:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:46:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:47:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:48:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:49:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:50:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:51:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:52:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:53:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:54:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:55:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:56:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:57:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:58:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 01:59:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:00:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:01:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:02:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:03:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:04:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:05:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:06:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:07:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:08:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:09:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:10:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:11:00,"123.81 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:12:00,"123.84 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.4 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:13:00,"121.94 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.8 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:14:00,"118.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.8 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:15:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.8 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:16:00,"128.48 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.8 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:17:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","1.8 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:18:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>","2 Pa, PRESSURE DROP! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",1.50 Pa
+2024-01-01 02:19:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.97 Pa,1.50 Pa
+2024-01-01 02:20:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.96 Pa,1.50 Pa
+2024-01-01 02:21:00,"119.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.96 Pa,1.50 Pa
+2024-01-01 02:22:00,"119.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.96 Pa,1.50 Pa
+2024-01-01 02:23:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.96 Pa,1.50 Pa
+2024-01-01 02:24:00,"118.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.95 Pa,1.50 Pa
+2024-01-01 02:25:00,"117.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.95 Pa,1.50 Pa
+2024-01-01 02:26:00,"112.05 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.95 Pa,1.50 Pa
+2024-01-01 02:27:00,"108.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.94 Pa,1.50 Pa
+2024-01-01 02:28:00,"107.47 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.94 Pa,1.50 Pa
+2024-01-01 02:29:00,"104.83 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.94 Pa,1.50 Pa
+2024-01-01 02:30:00,"102.92 °C, TEMPERATURE EXCEEDED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>",9.93 Pa,1.50 Pa
+2024-01-01 02:31:00,102.96°C,9.93 Pa,1.50 Pa
+2024-01-01 02:32:00,102.96°C,9.92 Pa,1.50 Pa
+2024-01-01 02:33:00,102.95°C,9.92 Pa,1.50 Pa
+2024-01-01 02:34:00,102.95°C,9.92 Pa,1.50 Pa
+2024-01-01 02:35:00,102.95°C,9.91 Pa,1.50 Pa
+2024-01-01 02:36:00,102.94°C,9.91 Pa,1.50 Pa
+2024-01-01 02:37:00,102.94°C,9.90 Pa,1.49 Pa
+2024-01-01 02:38:00,102.94°C,9.90 Pa,1.49 Pa
+2024-01-01 02:39:00,102.93°C,9.90 Pa,1.49 Pa
+2024-01-01 02:40:00,102.93°C,9.94 Pa,1.49 Pa
+2024-01-01 02:41:00,102.92°C,9.94 Pa,1.49 Pa
+2024-01-01 02:42:00,102.92°C,9.93 Pa,1.49 Pa
+2024-01-01 02:43:00,102.91°C,9.93 Pa,1.49 Pa
+2024-01-01 02:44:00,102.91°C,9.92 Pa,1.49 Pa
+2024-01-01 02:45:00,102.90°C,9.92 Pa,1.49 Pa
+2024-01-01 02:46:00,102.90°C,9.92 Pa,1.49 Pa
+2024-01-01 02:47:00,102.90°C,9.91 Pa,1.49 Pa
+2024-01-01 02:48:00,102.89°C,9.91 Pa,1.49 Pa
+2024-01-01 02:49:00,102.89°C,9.90 Pa,1.49 Pa
+2024-01-01 02:50:00,102.88°C,9.90 Pa,1.49 Pa
+2024-01-01 02:51:00,102.87°C,9.90 Pa,1.49 Pa
+2024-01-01 02:52:00,102.87°C,9.89 Pa,1.49 Pa
+2024-01-01 02:53:00,102.86°C,9.89 Pa,1.49 Pa
+2024-01-01 02:54:00,102.86°C,9.88 Pa,1.49 Pa
+2024-01-01 02:55:00,102.85°C,9.88 Pa,1.49 Pa
+2024-01-01 02:56:00,102.85°C,9.87 Pa,1.49 Pa
+2024-01-01 02:57:00,102.84°C,9.87 Pa,1.49 Pa
+2024-01-01 02:58:00,102.83°C,9.86 Pa,1.49 Pa
+2024-01-01 02:59:00,102.83°C,9.86 Pa,1.49 Pa
+2024-01-01 03:00:00,102.82°C,9.85 Pa,1.49 Pa
+2024-01-01 03:01:00,102.82°C,9.85 Pa,1.48 Pa
+2024-01-01 03:02:00,102.81°C,9.84 Pa,1.48 Pa
+2024-01-01 03:03:00,102.80°C,9.83 Pa,1.48 Pa
+2024-01-01 03:04:00,102.79°C,9.83 Pa,1.48 Pa
+2024-01-01 03:05:00,102.79°C,9.82 Pa,1.48 Pa
+2024-01-01 03:06:00,102.78°C,9.82 Pa,1.48 Pa
+2024-01-01 03:07:00,102.77°C,9.81 Pa,1.48 Pa
+2024-01-01 03:08:00,102.77°C,9.81 Pa,1.48 Pa
+2024-01-01 03:09:00,102.76°C,9.80 Pa,1.48 Pa
+2024-01-01 03:10:00,102.75°C,9.79 Pa,1.48 Pa
+2024-01-01 03:11:00,102.74°C,9.79 Pa,1.48 Pa
+2024-01-01 03:12:00,102.74°C,9.78 Pa,1.48 Pa
+2024-01-01 03:13:00,102.73°C,9.77 Pa,1.48 Pa
+2024-01-01 03:14:00,102.72°C,9.77 Pa,1.48 Pa
+2024-01-01 03:15:00,102.71°C,9.76 Pa,1.48 Pa
+2024-01-01 03:16:00,102.70°C,9.75 Pa,1.48 Pa
+2024-01-01 03:17:00,102.70°C,9.75 Pa,1.47 Pa
+2024-01-01 03:18:00,102.69°C,9.74 Pa,1.47 Pa
+2024-01-01 03:19:00,102.68°C,9.73 Pa,1.47 Pa
+2024-01-01 03:20:00,102.67°C,9.73 Pa,1.47 Pa
+2024-01-01 03:21:00,102.66°C,9.72 Pa,1.47 Pa
+2024-01-01 03:22:00,102.65°C,9.71 Pa,1.47 Pa
+2024-01-01 03:23:00,102.65°C,9.70 Pa,1.47 Pa
+2024-01-01 03:24:00,102.64°C,9.70 Pa,1.47 Pa
+2024-01-01 03:25:00,102.63°C,9.69 Pa,1.47 Pa
+2024-01-01 03:26:00,102.62°C,9.68 Pa,1.47 Pa
+2024-01-01 03:27:00,102.61°C,9.67 Pa,1.47 Pa
+2024-01-01 03:28:00,102.60°C,9.67 Pa,1.47 Pa
+2024-01-01 03:29:00,102.59°C,9.66 Pa,1.47 Pa
+2024-01-01 03:30:00,102.58°C,9.65 Pa,1.47 Pa
+2024-01-01 03:31:00,102.57°C,9.64 Pa,1.46 Pa
+2024-01-01 03:32:00,102.56°C,9.63 Pa,1.46 Pa
+2024-01-01 03:33:00,102.55°C,9.63 Pa,1.46 Pa
+2024-01-01 03:34:00,102.54°C,9.62 Pa,1.46 Pa
+2024-01-01 03:35:00,102.53°C,9.61 Pa,1.46 Pa
+2024-01-01 03:36:00,102.52°C,9.60 Pa,1.46 Pa
+2024-01-01 03:37:00,102.51°C,9.59 Pa,1.46 Pa
+2024-01-01 03:38:00,102.50°C,9.58 Pa,1.46 Pa
+2024-01-01 03:39:00,102.49°C,9.57 Pa,1.46 Pa
+2024-01-01 03:40:00,102.48°C,9.57 Pa,1.46 Pa
+2024-01-01 03:41:00,102.47°C,9.56 Pa,1.46 Pa
+2024-01-01 03:42:00,102.46°C,9.55 Pa,1.45 Pa
+2024-01-01 03:43:00,102.45°C,9.54 Pa,1.45 Pa
+2024-01-01 03:44:00,102.44°C,9.53 Pa,1.45 Pa
+2024-01-01 03:45:00,102.42°C,9.52 Pa,1.45 Pa
+2024-01-01 03:46:00,102.41°C,9.51 Pa,1.45 Pa
+2024-01-01 03:47:00,102.40°C,9.50 Pa,1.45 Pa
+2024-01-01 03:48:00,102.39°C,9.49 Pa,1.45 Pa
+2024-01-01 03:49:00,102.38°C,9.48 Pa,1.45 Pa
+2024-01-01 03:50:00,102.37°C,9.47 Pa,1.45 Pa
+2024-01-01 03:51:00,102.36°C,9.46 Pa,1.45 Pa
+2024-01-01 03:52:00,102.34°C,9.45 Pa,1.45 Pa
+2024-01-01 03:53:00,102.33°C,9.44 Pa,1.44 Pa
+2024-01-01 03:54:00,102.32°C,9.43 Pa,1.44 Pa
+2024-01-01 03:55:00,102.31°C,9.42 Pa,1.44 Pa
+2024-01-01 03:56:00,102.30°C,9.41 Pa,1.44 Pa
+2024-01-01 03:57:00,102.28°C,9.40 Pa,1.44 Pa
+2024-01-01 03:58:00,102.27°C,9.39 Pa,1.33 Pa
+2024-01-01 03:59:00,102.26°C,9.38 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:00:00,102.25°C,9.37 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:01:00,102.23°C,9.36 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:02:00,102.22°C,9.35 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:03:00,102.21°C,9.34 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:04:00,102.20°C,9.33 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:05:00,102.18°C,9.32 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:06:00,102.17°C,9.31 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:07:00,102.16°C,9.30 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:08:00,102.14°C,9.29 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:09:00,102.13°C,9.28 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:10:00,102.12°C,9.26 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:11:00,102.10°C,9.25 Pa,"1.2 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:12:00,102.09°C,9.24 Pa,"1.1 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:13:00,102.08°C,9.23 Pa,"1.1 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:14:00,102.06°C,9.22 Pa,"1.1 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:15:00,102.05°C,9.21 Pa,"1.1 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:16:00,102.04°C,9.20 Pa,"1.1 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:17:00,102.02°C,9.19 Pa,"1.1 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:18:00,102.01°C,9.17 Pa,"1.1 Pa, POTENTIAL FAILURE DETECTED! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:19:00,101.99°C,9.16 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://staging.vark.fbrk.in/viewer/cpd/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:20:00,101.98°C,9.15 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:21:00,101.97°C,9.14 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:22:00,101.95°C,9.13 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:23:00,101.94°C,9.11 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:24:00,101.92°C,9.10 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:25:00,101.91°C,9.09 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:26:00,101.89°C,9.08 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:27:00,101.88°C,9.07 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:28:00,101.86°C,9.05 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:29:00,101.85°C,9.04 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:30:00,101.83°C,9.03 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:31:00,101.82°C,9.02 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:32:00,101.80°C,9.00 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:33:00,101.79°C,8.99 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:34:00,101.77°C,8.98 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:35:00,101.76°C,8.97 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:36:00,101.74°C,8.95 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:37:00,101.73°C,8.94 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:38:00,101.71°C,8.93 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:39:00,101.70°C,8.91 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:40:00,101.68°C,8.90 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:41:00,101.67°C,8.89 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:42:00,101.65°C,8.88 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:43:00,101.63°C,8.86 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:44:00,101.62°C,8.85 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:45:00,101.60°C,8.84 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:46:00,101.59°C,8.82 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:47:00,101.57°C,8.81 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:48:00,101.55°C,8.80 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:49:00,101.54°C,8.78 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:50:00,101.52°C,8.77 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:51:00,101.51°C,8.76 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:52:00,101.49°C,8.74 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:53:00,101.47°C,8.73 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:54:00,101.46°C,8.71 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:55:00,101.44°C,8.70 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:56:00,101.42°C,8.69 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:57:00,101.41°C,8.67 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:58:00,101.39°C,8.66 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 04:59:00,101.37°C,8.64 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:00:00,101.36°C,8.63 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:01:00,101.34°C,8.62 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:02:00,101.32°C,8.60 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:03:00,101.31°C,8.59 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:04:00,101.29°C,8.57 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:05:00,101.27°C,8.56 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:06:00,101.26°C,8.55 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:07:00,101.24°C,8.53 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:08:00,101.22°C,8.52 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:09:00,101.20°C,8.50 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:10:00,101.19°C,8.49 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:11:00,101.17°C,8.47 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:12:00,101.15°C,8.46 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:13:00,101.13°C,8.44 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:14:00,101.12°C,8.43 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:15:00,101.10°C,8.42 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:16:00,101.08°C,8.40 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:17:00,101.06°C,8.39 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:18:00,101.05°C,8.37 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:19:00,101.03°C,8.36 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:20:00,101.01°C,8.34 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:21:00,100.99°C,8.33 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:22:00,100.97°C,8.31 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:23:00,100.96°C,8.30 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:24:00,100.94°C,8.28 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:25:00,100.92°C,8.27 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:26:00,100.90°C,8.25 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:27:00,100.89°C,8.24 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:28:00,100.87°C,8.22 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:29:00,100.85°C,8.21 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:30:00,100.83°C,8.19 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:31:00,100.81°C,8.18 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:32:00,100.79°C,8.16 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:33:00,100.78°C,8.15 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:34:00,100.76°C,8.13 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:35:00,100.74°C,8.12 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:36:00,100.72°C,8.10 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:37:00,100.70°C,8.09 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:38:00,100.68°C,8.07 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:39:00,100.67°C,8.06 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:40:00,100.65°C,8.04 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:41:00,100.63°C,8.02 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:42:00,100.61°C,8.01 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:43:00,100.59°C,7.99 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:44:00,100.57°C,7.98 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:45:00,100.56°C,7.96 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:46:00,100.54°C,7.95 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:47:00,100.52°C,7.93 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:48:00,100.50°C,7.92 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:49:00,100.48°C,7.90 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:50:00,100.46°C,7.89 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:51:00,100.44°C,7.87 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:52:00,100.43°C,7.85 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:53:00,100.41°C,7.84 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:54:00,100.39°C,7.82 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:55:00,100.37°C,7.81 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:56:00,100.35°C,7.79 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:57:00,100.33°C,7.78 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:58:00,100.31°C,7.76 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 05:59:00,100.29°C,7.75 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:00:00,100.28°C,7.73 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:01:00,100.26°C,7.71 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:02:00,100.24°C,7.70 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:03:00,100.22°C,7.68 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:04:00,100.20°C,7.67 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:05:00,100.18°C,7.65 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:06:00,100.16°C,7.64 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:07:00,100.14°C,7.62 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:08:00,100.12°C,7.60 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:09:00,100.11°C,7.59 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:10:00,100.09°C,7.57 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:11:00,100.07°C,7.56 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:12:00,100.05°C,7.54 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:13:00,100.03°C,7.53 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:14:00,100.01°C,7.51 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:15:00,99.99°C,7.49 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:16:00,99.97°C,7.48 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:17:00,99.96°C,7.46 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:18:00,99.94°C,7.45 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:19:00,99.92°C,7.43 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:20:00,99.90°C,7.42 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:21:00,99.88°C,7.40 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:22:00,99.86°C,7.38 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:23:00,99.84°C,7.37 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:24:00,99.82°C,7.35 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:25:00,99.80°C,7.34 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:26:00,99.79°C,7.32 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:27:00,99.77°C,7.31 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:28:00,99.75°C,7.29 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:29:00,99.73°C,7.27 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:30:00,99.71°C,7.26 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:31:00,99.69°C,7.24 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:32:00,99.67°C,7.23 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:33:00,99.65°C,7.21 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:34:00,99.64°C,7.20 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:35:00,99.62°C,7.18 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:36:00,99.60°C,7.16 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:37:00,99.58°C,7.15 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:38:00,99.56°C,7.13 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:39:00,99.54°C,7.12 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:40:00,99.52°C,7.10 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:41:00,99.50°C,7.09 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:42:00,99.49°C,7.07 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:43:00,99.47°C,7.06 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:44:00,99.45°C,7.04 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:45:00,99.43°C,7.03 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:46:00,99.41°C,7.01 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:47:00,99.39°C,6.99 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:48:00,99.37°C,6.98 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:49:00,99.36°C,6.96 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:50:00,99.34°C,6.95 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:51:00,99.32°C,6.93 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:52:00,99.30°C,6.92 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:53:00,99.28°C,6.90 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:54:00,99.26°C,6.89 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:55:00,99.25°C,6.87 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:56:00,99.23°C,6.86 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:57:00,99.21°C,6.84 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:58:00,99.19°C,6.83 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 06:59:00,99.17°C,6.81 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:00:00,99.16°C,6.80 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:01:00,99.14°C,6.78 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:02:00,99.12°C,6.77 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:03:00,99.10°C,6.75 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:04:00,99.08°C,6.74 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:05:00,99.07°C,6.72 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:06:00,99.05°C,6.71 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:07:00,99.03°C,6.69 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:08:00,99.01°C,6.68 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:09:00,98.99°C,6.66 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:10:00,98.98°C,6.65 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:11:00,98.96°C,6.63 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:12:00,98.94°C,6.62 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:13:00,98.92°C,6.60 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:14:00,98.91°C,6.59 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:15:00,98.89°C,6.57 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:16:00,98.87°C,6.56 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:17:00,98.85°C,6.54 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:18:00,98.84°C,6.53 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:19:00,98.82°C,6.52 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:20:00,98.80°C,6.50 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:21:00,98.78°C,6.49 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:22:00,98.77°C,6.47 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:23:00,98.75°C,6.46 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:24:00,98.73°C,6.44 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:25:00,98.72°C,6.43 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:26:00,98.70°C,6.42 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:27:00,98.68°C,6.40 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:28:00,98.66°C,6.39 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:29:00,98.65°C,6.37 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:30:00,98.63°C,6.36 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:31:00,98.61°C,6.34 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:32:00,98.60°C,6.33 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:33:00,98.58°C,6.32 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:34:00,98.56°C,6.30 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:35:00,98.55°C,6.29 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:36:00,98.53°C,6.28 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:37:00,98.51°C,6.26 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:38:00,98.50°C,6.25 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:39:00,98.48°C,6.23 Pa,"0 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:40:00,98.47°C,6.22 Pa,"0.1 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:41:00,98.45°C,6.21 Pa,"0.1 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:42:00,98.43°C,6.19 Pa,"0.15 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:43:00,98.42°C,6.18 Pa,"0.2 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:44:00,98.40°C,6.17 Pa,"0.25 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:45:00,98.39°C,6.15 Pa,"0.25 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:46:00,98.37°C,6.14 Pa,"0.25 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:47:00,98.35°C,6.13 Pa,"0.3 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:48:00,98.34°C,6.11 Pa,"0.3 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:49:00,98.32°C,6.10 Pa,"0.33 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:50:00,98.31°C,6.09 Pa,"0.4 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:51:00,98.29°C,6.08 Pa,"0.4 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:52:00,98.28°C,6.06 Pa,"0.41 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:53:00,98.26°C,6.05 Pa,"0.5 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:54:00,98.24°C,6.04 Pa,"0.55 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:55:00,98.23°C,6.02 Pa,"0.56 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:56:00,98.21°C,6.01 Pa,"0.6 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:57:00,98.20°C,6.00 Pa,"0.7 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:58:00,98.18°C,5.99 Pa,"0.7 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 07:59:00,98.17°C,5.97 Pa,"0.84 Pa, CATASTROPHIC FAILURE! <a href="https://fabrikspace.com/viewer/4166?step=4ed61325-b700-4c83-94c8-09f10698b029" target=""_blank"">Click here to resolve.</a>"
+2024-01-01 08:00:00,98.15°C,5.96 Pa,1.10 Pa
+2024-01-01 08:01:00,98.14°C,5.95 Pa,1.09 Pa
+2024-01-01 08:02:00,98.12°C,5.94 Pa,1.09 Pa
+2024-01-01 08:03:00,98.11°C,5.92 Pa,1.09 Pa
+2024-01-01 08:04:00,98.10°C,5.91 Pa,1.09 Pa
+2024-01-01 08:05:00,98.08°C,5.90 Pa,1.09 Pa
+2024-01-01 08:06:00,98.07°C,5.89 Pa,1.09 Pa
+2024-01-01 08:07:00,98.05°C,5.88 Pa,1.09 Pa
+2024-01-01 08:08:00,98.04°C,5.86 Pa,1.09 Pa
+2024-01-01 08:09:00,98.02°C,5.85 Pa,1.09 Pa
+2024-01-01 08:10:00,98.01°C,5.84 Pa,1.08 Pa
+2024-01-01 08:11:00,98.00°C,5.83 Pa,1.08 Pa
+2024-01-01 08:12:00,97.98°C,5.82 Pa,1.08 Pa
+2024-01-01 08:13:00,97.97°C,5.81 Pa,1.08 Pa
+2024-01-01 08:14:00,97.95°C,5.79 Pa,1.08 Pa
+2024-01-01 08:15:00,97.94°C,5.78 Pa,1.08 Pa
+2024-01-01 08:16:00,97.93°C,5.77 Pa,1.08 Pa
+2024-01-01 08:17:00,97.91°C,5.76 Pa,1.08 Pa
+2024-01-01 08:18:00,97.90°C,5.75 Pa,1.07 Pa
+2024-01-01 08:19:00,97.89°C,5.74 Pa,1.07 Pa
+2024-01-01 08:20:00,97.87°C,5.73 Pa,1.07 Pa
+2024-01-01 08:21:00,97.86°C,5.72 Pa,1.07 Pa
+2024-01-01 08:22:00,97.85°C,5.70 Pa,1.07 Pa
+2024-01-01 08:23:00,97.83°C,5.69 Pa,1.07 Pa
+2024-01-01 08:24:00,97.82°C,5.68 Pa,1.07 Pa
+2024-01-01 08:25:00,97.81°C,5.67 Pa,1.07 Pa
+2024-01-01 08:26:00,97.79°C,5.66 Pa,1.07 Pa
+2024-01-01 08:27:00,97.78°C,5.65 Pa,1.07 Pa
+2024-01-01 08:28:00,97.77°C,5.64 Pa,1.06 Pa
+2024-01-01 08:29:00,97.76°C,5.63 Pa,1.06 Pa
+2024-01-01 08:30:00,97.74°C,5.62 Pa,1.06 Pa
+2024-01-01 08:31:00,97.73°C,5.61 Pa,1.06 Pa
+2024-01-01 08:32:00,97.72°C,5.60 Pa,1.06 Pa
+2024-01-01 08:33:00,97.71°C,5.59 Pa,1.06 Pa
+2024-01-01 08:34:00,97.69°C,5.58 Pa,1.06 Pa
+2024-01-01 08:35:00,97.68°C,5.57 Pa,1.06 Pa
+2024-01-01 08:36:00,97.67°C,5.56 Pa,1.06 Pa
+2024-01-01 08:37:00,97.66°C,5.55 Pa,1.05 Pa
+2024-01-01 08:38:00,97.65°C,5.54 Pa,1.05 Pa
+2024-01-01 08:39:00,97.64°C,5.53 Pa,1.05 Pa
+2024-01-01 08:40:00,97.62°C,5.52 Pa,1.05 Pa
+2024-01-01 08:41:00,97.61°C,5.51 Pa,1.05 Pa
+2024-01-01 08:42:00,97.60°C,5.50 Pa,1.05 Pa
+2024-01-01 08:43:00,97.59°C,5.49 Pa,1.05 Pa
+2024-01-01 08:44:00,97.58°C,5.48 Pa,1.05 Pa
+2024-01-01 08:45:00,97.57°C,5.47 Pa,1.05 Pa
+2024-01-01 08:46:00,97.56°C,5.46 Pa,1.05 Pa
+2024-01-01 08:47:00,97.55°C,5.45 Pa,1.05 Pa
+2024-01-01 08:48:00,97.53°C,5.45 Pa,1.04 Pa
+2024-01-01 08:49:00,97.52°C,5.44 Pa,1.04 Pa
+2024-01-01 08:50:00,97.51°C,5.43 Pa,1.04 Pa
+2024-01-01 08:51:00,97.50°C,5.42 Pa,1.04 Pa
+2024-01-01 08:52:00,97.49°C,5.41 Pa,1.04 Pa
+2024-01-01 08:53:00,97.48°C,5.40 Pa,1.04 Pa
+2024-01-01 08:54:00,97.47°C,5.39 Pa,1.04 Pa
+2024-01-01 08:55:00,97.46°C,5.38 Pa,1.04 Pa
+2024-01-01 08:56:00,97.45°C,5.38 Pa,1.04 Pa
+2024-01-01 08:57:00,97.44°C,5.37 Pa,1.04 Pa
+2024-01-01 08:58:00,97.43°C,5.36 Pa,1.04 Pa
+2024-01-01 08:59:00,97.42°C,5.35 Pa,1.04 Pa
+2024-01-01 09:00:00,97.41°C,5.34 Pa,1.03 Pa
+2024-01-01 09:01:00,97.40°C,5.34 Pa,1.03 Pa
+2024-01-01 09:02:00,97.39°C,5.33 Pa,1.03 Pa
+2024-01-01 09:03:00,97.38°C,5.32 Pa,1.03 Pa
+2024-01-01 09:04:00,97.38°C,5.31 Pa,1.03 Pa
+2024-01-01 09:05:00,97.37°C,5.31 Pa,1.03 Pa
+2024-01-01 09:06:00,97.36°C,5.30 Pa,1.03 Pa
+2024-01-01 09:07:00,97.35°C,5.29 Pa,1.03 Pa
+2024-01-01 09:08:00,97.34°C,5.28 Pa,1.03 Pa
+2024-01-01 09:09:00,97.33°C,5.28 Pa,1.03 Pa
+2024-01-01 09:10:00,97.32°C,5.27 Pa,1.03 Pa
+2024-01-01 09:11:00,97.31°C,5.26 Pa,1.03 Pa
+2024-01-01 09:12:00,97.31°C,5.25 Pa,1.03 Pa
+2024-01-01 09:13:00,97.30°C,5.25 Pa,1.02 Pa
+2024-01-01 09:14:00,97.29°C,5.24 Pa,1.02 Pa
+2024-01-01 09:15:00,97.28°C,5.23 Pa,1.02 Pa
+2024-01-01 09:16:00,97.27°C,5.23 Pa,1.02 Pa
+2024-01-01 09:17:00,97.27°C,5.22 Pa,1.02 Pa
+2024-01-01 09:18:00,97.26°C,5.21 Pa,1.02 Pa
+2024-01-01 09:19:00,97.25°C,5.21 Pa,1.02 Pa
+2024-01-01 09:20:00,97.24°C,5.20 Pa,1.02 Pa
+2024-01-01 09:21:00,97.24°C,5.20 Pa,1.02 Pa
+2024-01-01 09:22:00,97.23°C,5.19 Pa,1.02 Pa
+2024-01-01 09:23:00,97.22°C,5.18 Pa,1.02 Pa
+2024-01-01 09:24:00,97.21°C,5.18 Pa,1.02 Pa
+2024-01-01 09:25:00,97.21°C,5.17 Pa,1.02 Pa
+2024-01-01 09:26:00,97.20°C,5.17 Pa,1.02 Pa
+2024-01-01 09:27:00,97.19°C,5.16 Pa,1.02 Pa
+2024-01-01 09:28:00,97.19°C,5.16 Pa,1.02 Pa
+2024-01-01 09:29:00,97.18°C,5.15 Pa,1.02 Pa
+2024-01-01 09:30:00,97.17°C,5.14 Pa,1.01 Pa
+2024-01-01 09:31:00,97.17°C,5.14 Pa,1.01 Pa
+2024-01-01 09:32:00,97.16°C,5.13 Pa,1.01 Pa
+2024-01-01 09:33:00,97.16°C,5.13 Pa,1.01 Pa
+2024-01-01 09:34:00,97.15°C,5.12 Pa,1.01 Pa
+2024-01-01 09:35:00,97.14°C,5.12 Pa,1.01 Pa
+2024-01-01 09:36:00,97.14°C,5.11 Pa,1.01 Pa
+2024-01-01 09:37:00,97.13°C,5.11 Pa,1.01 Pa
+2024-01-01 09:38:00,97.13°C,5.11 Pa,1.01 Pa
+2024-01-01 09:39:00,97.12°C,5.10 Pa,1.01 Pa
+2024-01-01 09:40:00,97.12°C,5.10 Pa,1.01 Pa
+2024-01-01 09:41:00,97.11°C,5.09 Pa,1.01 Pa
+2024-01-01 09:42:00,97.11°C,5.09 Pa,1.01 Pa
+2024-01-01 09:43:00,97.10°C,5.08 Pa,1.01 Pa
+2024-01-01 09:44:00,97.10°C,5.08 Pa,1.01 Pa
+2024-01-01 09:45:00,97.09°C,5.08 Pa,1.01 Pa
+2024-01-01 09:46:00,97.09°C,5.07 Pa,1.01 Pa
+2024-01-01 09:47:00,97.08°C,5.07 Pa,1.01 Pa
+2024-01-01 09:48:00,97.08°C,5.07 Pa,1.01 Pa
+2024-01-01 09:49:00,97.07°C,5.06 Pa,1.01 Pa
+2024-01-01 09:50:00,97.07°C,5.06 Pa,1.01 Pa
+2024-01-01 09:51:00,97.07°C,5.05 Pa,1.01 Pa
+2024-01-01 09:52:00,97.06°C,5.05 Pa,1.01 Pa
+2024-01-01 09:53:00,97.06°C,5.05 Pa,1.00 Pa
+2024-01-01 09:54:00,97.05°C,5.05 Pa,1.00 Pa
+2024-01-01 09:55:00,97.05°C,5.04 Pa,1.00 Pa
+2024-01-01 09:56:00,97.05°C,5.04 Pa,1.00 Pa
+2024-01-01 09:57:00,97.04°C,5.04 Pa,1.00 Pa
+2024-01-01 09:58:00,97.04°C,5.03 Pa,1.00 Pa
+2024-01-01 09:59:00,97.04°C,5.03 Pa,1.00 Pa
+2024-01-01 10:00:00,97.04°C,5.03 Pa,1.00 Pa
+2024-01-01 10:01:00,97.03°C,5.03 Pa,1.00 Pa
+2024-01-01 10:02:00,97.03°C,5.02 Pa,1.00 Pa
+2024-01-01 10:03:00,97.03°C,5.02 Pa,1.00 Pa
+2024-01-01 10:04:00,97.02°C,5.02 Pa,1.00 Pa
+2024-01-01 10:05:00,97.02°C,5.02 Pa,1.00 Pa
+2024-01-01 10:06:00,97.02°C,5.02 Pa,1.00 Pa
+2024-01-01 10:07:00,97.02°C,5.01 Pa,1.00 Pa
+2024-01-01 10:08:00,97.02°C,5.01 Pa,1.00 Pa
+2024-01-01 10:09:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:10:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:11:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:12:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:13:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:14:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:15:00,97.01°C,5.00 Pa,1.00 Pa
+2024-01-01 10:16:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:17:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:18:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:19:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:20:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:21:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:22:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:23:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:24:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:25:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:26:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:27:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:28:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:29:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:30:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:31:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:32:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:33:00,97.00°C,5.00 Pa,1.00 Pa
+2024-01-01 10:34:00,97.01°C,5.00 Pa,1.00 Pa
+2024-01-01 10:35:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:36:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:37:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:38:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:39:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:40:00,97.01°C,5.01 Pa,1.00 Pa
+2024-01-01 10:41:00,97.02°C,5.01 Pa,1.00 Pa
+2024-01-01 10:42:00,97.02°C,5.02 Pa,1.00 Pa
+2024-01-01 10:43:00,97.02°C,5.02 Pa,1.00 Pa
+2024-01-01 10:44:00,97.02°C,5.02 Pa,1.00 Pa
+2024-01-01 10:45:00,97.03°C,5.02 Pa,1.00 Pa
+2024-01-01 10:46:00,97.03°C,5.02 Pa,1.00 Pa
+2024-01-01 10:47:00,97.03°C,5.03 Pa,1.00 Pa
+2024-01-01 10:48:00,97.03°C,5.03 Pa,1.00 Pa
+2024-01-01 10:49:00,97.04°C,5.03 Pa,1.00 Pa
+2024-01-01 10:50:00,97.04°C,5.03 Pa,1.00 Pa
+2024-01-01 10:51:00,97.04°C,5.03 Pa,1.00 Pa
+2024-01-01 10:52:00,97.05°C,5.04 Pa,1.00 Pa
+2024-01-01 10:53:00,97.05°C,5.04 Pa,1.00 Pa
+2024-01-01 10:54:00,97.05°C,5.04 Pa,1.00 Pa
+2024-01-01 10:55:00,97.06°C,5.05 Pa,1.00 Pa
+2024-01-01 10:56:00,97.06°C,5.05 Pa,1.00 Pa
+2024-01-01 10:57:00,97.06°C,5.05 Pa,1.01 Pa
+2024-01-01 10:58:00,97.07°C,5.06 Pa,1.01 Pa
+2024-01-01 10:59:00,97.07°C,5.06 Pa,1.01 Pa
+2024-01-01 11:00:00,97.07°C,5.06 Pa,1.01 Pa
+2024-01-01 11:01:00,97.08°C,5.07 Pa,1.01 Pa
+2024-01-01 11:02:00,97.08°C,5.07 Pa,1.01 Pa
+2024-01-01 11:03:00,97.09°C,5.07 Pa,1.01 Pa
+2024-01-01 11:04:00,97.09°C,5.08 Pa,1.01 Pa
+2024-01-01 11:05:00,97.10°C,5.08 Pa,1.01 Pa
+2024-01-01 11:06:00,97.10°C,5.09 Pa,1.01 Pa
+2024-01-01 11:07:00,97.11°C,5.09 Pa,1.01 Pa
+2024-01-01 11:08:00,97.11°C,5.09 Pa,1.01 Pa
+2024-01-01 11:09:00,97.12°C,5.10 Pa,1.01 Pa
+2024-01-01 11:10:00,97.12°C,5.10 Pa,1.01 Pa
+2024-01-01 11:11:00,97.13°C,5.11 Pa,1.01 Pa
+2024-01-01 11:12:00,97.13°C,5.11 Pa,1.01 Pa
+2024-01-01 11:13:00,97.14°C,5.12 Pa,1.01 Pa
+2024-01-01 11:14:00,97.14°C,5.12 Pa,1.01 Pa
+2024-01-01 11:15:00,97.15°C,5.13 Pa,1.01 Pa
+2024-01-01 11:16:00,97.16°C,5.13 Pa,1.01 Pa
+2024-01-01 11:17:00,97.16°C,5.14 Pa,1.01 Pa
+2024-01-01 11:18:00,97.17°C,5.14 Pa,1.01 Pa
+2024-01-01 11:19:00,97.18°C,5.15 Pa,1.01 Pa
+2024-01-01 11:20:00,97.18°C,5.15 Pa,1.02 Pa
+2024-01-01 11:21:00,97.19°C,5.16 Pa,1.02 Pa
+2024-01-01 11:22:00,97.19°C,5.16 Pa,1.02 Pa
+2024-01-01 11:23:00,97.20°C,5.17 Pa,1.02 Pa
+2024-01-01 11:24:00,97.21°C,5.17 Pa,1.02 Pa
+2024-01-01 11:25:00,97.22°C,5.18 Pa,1.02 Pa
+2024-01-01 11:26:00,97.22°C,5.19 Pa,1.02 Pa
+2024-01-01 11:27:00,97.23°C,5.19 Pa,1.02 Pa
+2024-01-01 11:28:00,97.24°C,5.20 Pa,1.02 Pa
+2024-01-01 11:29:00,97.24°C,5.20 Pa,1.02 Pa
+2024-01-01 11:30:00,97.25°C,5.21 Pa,1.02 Pa
+2024-01-01 11:31:00,97.26°C,5.22 Pa,1.02 Pa
+2024-01-01 11:32:00,97.27°C,5.22 Pa,1.02 Pa
+2024-01-01 11:33:00,97.28°C,5.23 Pa,1.02 Pa
+2024-01-01 11:34:00,97.28°C,5.24 Pa,1.02 Pa
+2024-01-01 11:35:00,97.29°C,5.24 Pa,1.02 Pa
+2024-01-01 11:36:00,97.30°C,5.25 Pa,1.02 Pa
+2024-01-01 11:37:00,97.31°C,5.26 Pa,1.03 Pa
+2024-01-01 11:38:00,97.32°C,5.26 Pa,1.03 Pa
+2024-01-01 11:39:00,97.32°C,5.27 Pa,1.03 Pa
+2024-01-01 11:40:00,97.33°C,5.28 Pa,1.03 Pa
+2024-01-01 11:41:00,97.34°C,5.28 Pa,1.03 Pa
+2024-01-01 11:42:00,97.35°C,5.29 Pa,1.03 Pa
+2024-01-01 11:43:00,97.36°C,5.30 Pa,1.03 Pa
+2024-01-01 11:44:00,97.37°C,5.31 Pa,1.03 Pa
+2024-01-01 11:45:00,97.38°C,5.31 Pa,1.03 Pa
+2024-01-01 11:46:00,97.39°C,5.32 Pa,1.03 Pa
+2024-01-01 11:47:00,97.40°C,5.33 Pa,1.03 Pa
+2024-01-01 11:48:00,97.41°C,5.34 Pa,1.03 Pa
+2024-01-01 11:49:00,97.41°C,5.35 Pa,1.03 Pa
+2024-01-01 11:50:00,97.42°C,5.35 Pa,1.04 Pa
+2024-01-01 11:51:00,97.43°C,5.36 Pa,1.04 Pa
+2024-01-01 11:52:00,97.44°C,5.37 Pa,1.04 Pa
+2024-01-01 11:53:00,97.45°C,5.38 Pa,1.04 Pa
+2024-01-01 11:54:00,97.46°C,5.39 Pa,1.04 Pa
+2024-01-01 11:55:00,97.47°C,5.40 Pa,1.04 Pa
+2024-01-01 11:56:00,97.48°C,5.40 Pa,1.04 Pa
+2024-01-01 11:57:00,97.49°C,5.41 Pa,1.04 Pa
+2024-01-01 11:58:00,97.51°C,5.42 Pa,1.04 Pa
+2024-01-01 11:59:00,97.52°C,5.43 Pa,1.04 Pa
+2024-01-01 12:00:00,97.53°C,5.44 Pa,1.04 Pa
+2024-01-01 12:01:00,97.54°C,5.45 Pa,1.04 Pa
+2024-01-01 12:02:00,97.55°C,5.46 Pa,1.05 Pa
+2024-01-01 12:03:00,97.56°C,5.47 Pa,1.05 Pa
+2024-01-01 12:04:00,97.57°C,5.47 Pa,1.05 Pa
+2024-01-01 12:05:00,97.58°C,5.48 Pa,1.05 Pa
+2024-01-01 12:06:00,97.59°C,5.49 Pa,1.05 Pa
+2024-01-01 12:07:00,97.60°C,5.50 Pa,1.05 Pa
+2024-01-01 12:08:00,97.61°C,5.51 Pa,1.05 Pa
+2024-01-01 12:09:00,97.63°C,5.52 Pa,1.05 Pa
+2024-01-01 12:10:00,97.64°C,5.53 Pa,1.05 Pa
+2024-01-01 12:11:00,97.65°C,5.54 Pa,1.05 Pa
+2024-01-01 12:12:00,97.66°C,5.55 Pa,1.06 Pa
+2024-01-01 12:13:00,97.67°C,5.56 Pa,1.06 Pa
+2024-01-01 12:14:00,97.69°C,5.57 Pa,1.06 Pa
+2024-01-01 12:15:00,97.70°C,5.58 Pa,1.06 Pa
+2024-01-01 12:16:00,97.71°C,5.59 Pa,1.06 Pa
+2024-01-01 12:17:00,97.72°C,5.60 Pa,1.06 Pa
+2024-01-01 12:18:00,97.73°C,5.61 Pa,1.06 Pa
+2024-01-01 12:19:00,97.75°C,5.62 Pa,1.06 Pa
+2024-01-01 12:20:00,97.76°C,5.63 Pa,1.06 Pa
+2024-01-01 12:21:00,97.77°C,5.64 Pa,1.06 Pa
+2024-01-01 12:22:00,97.78°C,5.65 Pa,1.07 Pa
+2024-01-01 12:23:00,97.80°C,5.66 Pa,1.07 Pa
+2024-01-01 12:24:00,97.81°C,5.67 Pa,1.07 Pa
+2024-01-01 12:25:00,97.82°C,5.69 Pa,1.07 Pa
+2024-01-01 12:26:00,97.84°C,5.70 Pa,1.07 Pa
+2024-01-01 12:27:00,97.85°C,5.71 Pa,1.07 Pa
+2024-01-01 12:28:00,97.86°C,5.72 Pa,1.07 Pa
+2024-01-01 12:29:00,97.88°C,5.73 Pa,1.07 Pa
+2024-01-01 12:30:00,97.89°C,5.74 Pa,1.07 Pa
+2024-01-01 12:31:00,97.90°C,5.75 Pa,1.08 Pa
+2024-01-01 12:32:00,97.92°C,5.76 Pa,1.08 Pa
+2024-01-01 12:33:00,97.93°C,5.77 Pa,1.08 Pa
+2024-01-01 12:34:00,97.94°C,5.79 Pa,1.08 Pa
+2024-01-01 12:35:00,97.96°C,5.80 Pa,1.08 Pa
+2024-01-01 12:36:00,97.97°C,5.81 Pa,1.08 Pa
+2024-01-01 12:37:00,97.98°C,5.82 Pa,1.08 Pa
+2024-01-01 12:38:00,98.00°C,5.83 Pa,1.08 Pa
+2024-01-01 12:39:00,98.01°C,5.84 Pa,1.08 Pa
+2024-01-01 12:40:00,98.03°C,5.86 Pa,1.09 Pa
+2024-01-01 12:41:00,98.04°C,5.87 Pa,1.09 Pa
+2024-01-01 12:42:00,98.06°C,5.88 Pa,1.09 Pa
+2024-01-01 12:43:00,98.07°C,5.89 Pa,1.09 Pa
+2024-01-01 12:44:00,98.08°C,5.90 Pa,1.09 Pa
+2024-01-01 12:45:00,98.10°C,5.92 Pa,1.09 Pa
+2024-01-01 12:46:00,98.11°C,5.93 Pa,1.09 Pa
+2024-01-01 12:47:00,98.13°C,5.94 Pa,1.09 Pa
+2024-01-01 12:48:00,98.14°C,5.95 Pa,1.10 Pa
+2024-01-01 12:49:00,98.16°C,5.96 Pa,1.10 Pa
+2024-01-01 12:50:00,98.17°C,5.98 Pa,1.10 Pa
+2024-01-01 12:51:00,98.19°C,5.99 Pa,1.10 Pa
+2024-01-01 12:52:00,98.20°C,6.00 Pa,1.10 Pa
+2024-01-01 12:53:00,98.22°C,6.01 Pa,1.10 Pa
+2024-01-01 12:54:00,98.23°C,6.03 Pa,1.10 Pa
+2024-01-01 12:55:00,98.25°C,6.04 Pa,1.10 Pa
+2024-01-01 12:56:00,98.26°C,6.05 Pa,1.11 Pa
+2024-01-01 12:57:00,98.28°C,6.07 Pa,1.11 Pa
+2024-01-01 12:58:00,98.29°C,6.08 Pa,1.11 Pa
+2024-01-01 12:59:00,98.31°C,6.09 Pa,1.11 Pa
+2024-01-01 13:00:00,98.33°C,6.10 Pa,1.11 Pa
+2024-01-01 13:01:00,98.34°C,6.12 Pa,1.11 Pa
+2024-01-01 13:02:00,98.36°C,6.13 Pa,1.11 Pa
+2024-01-01 13:03:00,98.37°C,6.14 Pa,1.11 Pa
+2024-01-01 13:04:00,98.39°C,6.16 Pa,1.12 Pa
+2024-01-01 13:05:00,98.41°C,6.17 Pa,1.12 Pa
+2024-01-01 13:06:00,98.42°C,6.18 Pa,1.12 Pa
+2024-01-01 13:07:00,98.44°C,6.20 Pa,1.12 Pa
+2024-01-01 13:08:00,98.45°C,6.21 Pa,1.12 Pa
+2024-01-01 13:09:00,98.47°C,6.22 Pa,1.12 Pa
+2024-01-01 13:10:00,98.49°C,6.24 Pa,1.12 Pa
+2024-01-01 13:11:00,98.50°C,6.25 Pa,1.13 Pa
+2024-01-01 13:12:00,98.52°C,6.27 Pa,1.13 Pa
+2024-01-01 13:13:00,98.53°C,6.28 Pa,1.13 Pa
+2024-01-01 13:14:00,98.55°C,6.29 Pa,1.13 Pa
+2024-01-01 13:15:00,98.57°C,6.31 Pa,1.13 Pa
+2024-01-01 13:16:00,98.58°C,6.32 Pa,1.13 Pa
+2024-01-01 13:17:00,98.60°C,6.33 Pa,1.13 Pa
+2024-01-01 13:18:00,98.62°C,6.35 Pa,1.13 Pa
+2024-01-01 13:19:00,98.63°C,6.36 Pa,1.14 Pa
+2024-01-01 13:20:00,98.65°C,6.38 Pa,1.14 Pa
+2024-01-01 13:21:00,98.67°C,6.39 Pa,1.14 Pa
+2024-01-01 13:22:00,98.69°C,6.40 Pa,1.14 Pa
+2024-01-01 13:23:00,98.70°C,6.42 Pa,1.14 Pa
+2024-01-01 13:24:00,98.72°C,6.43 Pa,1.14 Pa
+2024-01-01 13:25:00,98.74°C,6.45 Pa,1.14 Pa
+2024-01-01 13:26:00,98.75°C,6.46 Pa,1.15 Pa
+2024-01-01 13:27:00,98.77°C,6.48 Pa,1.15 Pa
+2024-01-01 13:28:00,98.79°C,6.49 Pa,1.15 Pa
+2024-01-01 13:29:00,98.81°C,6.50 Pa,1.15 Pa
+2024-01-01 13:30:00,98.82°C,6.52 Pa,1.15 Pa
+2024-01-01 13:31:00,98.84°C,6.53 Pa,1.15 Pa
+2024-01-01 13:32:00,98.86°C,6.55 Pa,1.15 Pa
+2024-01-01 13:33:00,98.87°C,6.56 Pa,1.16 Pa
+2024-01-01 13:34:00,98.89°C,6.58 Pa,1.16 Pa
+2024-01-01 13:35:00,98.91°C,6.59 Pa,1.16 Pa
+2024-01-01 13:36:00,98.93°C,6.61 Pa,1.16 Pa
+2024-01-01 13:37:00,98.95°C,6.62 Pa,1.16 Pa
+2024-01-01 13:38:00,98.96°C,6.64 Pa,1.16 Pa
+2024-01-01 13:39:00,98.98°C,6.65 Pa,1.17 Pa
+2024-01-01 13:40:00,99.00°C,6.67 Pa,1.17 Pa
+2024-01-01 13:41:00,99.02°C,6.68 Pa,1.17 Pa
+2024-01-01 13:42:00,99.03°C,6.70 Pa,1.17 Pa
+2024-01-01 13:43:00,99.05°C,6.71 Pa,1.17 Pa
+2024-01-01 13:44:00,99.07°C,6.72 Pa,1.17 Pa
+2024-01-01 13:45:00,99.09°C,6.74 Pa,1.17 Pa
+2024-01-01 13:46:00,99.11°C,6.75 Pa,1.18 Pa
+2024-01-01 13:47:00,99.12°C,6.77 Pa,1.18 Pa
+2024-01-01 13:48:00,99.14°C,6.78 Pa,1.18 Pa
+2024-01-01 13:49:00,99.16°C,6.80 Pa,1.18 Pa
+2024-01-01 13:50:00,99.18°C,6.82 Pa,1.18 Pa
+2024-01-01 13:51:00,99.20°C,6.83 Pa,1.18 Pa
+2024-01-01 13:52:00,99.21°C,6.85 Pa,1.18 Pa
+2024-01-01 13:53:00,99.23°C,6.86 Pa,1.19 Pa
+2024-01-01 13:54:00,99.25°C,6.88 Pa,1.19 Pa
+2024-01-01 13:55:00,99.27°C,6.89 Pa,1.19 Pa
+2024-01-01 13:56:00,99.29°C,6.91 Pa,1.19 Pa
+2024-01-01 13:57:00,99.31°C,6.92 Pa,1.19 Pa
+2024-01-01 13:58:00,99.32°C,6.94 Pa,1.19 Pa
+2024-01-01 13:59:00,99.34°C,6.95 Pa,1.20 Pa
+2024-01-01 14:00:00,99.36°C,6.97 Pa,1.20 Pa
+2024-01-01 14:01:00,99.38°C,6.98 Pa,1.20 Pa
+2024-01-01 14:02:00,99.40°C,7.00 Pa,1.20 Pa
+2024-01-01 14:03:00,99.42°C,7.01 Pa,1.20 Pa
+2024-01-01 14:04:00,99.43°C,7.03 Pa,1.20 Pa
+2024-01-01 14:05:00,99.45°C,7.04 Pa,1.20 Pa
+2024-01-01 14:06:00,99.47°C,7.06 Pa,1.21 Pa
+2024-01-01 14:07:00,99.49°C,7.08 Pa,1.21 Pa
+2024-01-01 14:08:00,99.51°C,7.09 Pa,1.21 Pa
+2024-01-01 14:09:00,99.53°C,7.11 Pa,1.21 Pa
+2024-01-01 14:10:00,99.55°C,7.12 Pa,1.21 Pa
+2024-01-01 14:11:00,99.57°C,7.14 Pa,1.21 Pa
+2024-01-01 14:12:00,99.58°C,7.15 Pa,1.22 Pa
+2024-01-01 14:13:00,99.60°C,7.17 Pa,1.22 Pa
+2024-01-01 14:14:00,99.62°C,7.18 Pa,1.22 Pa
+2024-01-01 14:15:00,99.64°C,7.20 Pa,1.22 Pa
+2024-01-01 14:16:00,99.66°C,7.22 Pa,1.22 Pa
+2024-01-01 14:17:00,99.68°C,7.23 Pa,1.22 Pa
+2024-01-01 14:18:00,99.70°C,7.25 Pa,1.22 Pa
+2024-01-01 14:19:00,99.72°C,7.26 Pa,1.23 Pa
+2024-01-01 14:20:00,99.73°C,7.28 Pa,1.23 Pa
+2024-01-01 14:21:00,99.75°C,7.29 Pa,1.23 Pa
+2024-01-01 14:22:00,99.77°C,7.31 Pa,1.23 Pa
+2024-01-01 14:23:00,99.79°C,7.33 Pa,1.23 Pa
+2024-01-01 14:24:00,99.81°C,7.34 Pa,1.23 Pa
+2024-01-01 14:25:00,99.83°C,7.36 Pa,1.24 Pa
+2024-01-01 14:26:00,99.85°C,7.37 Pa,1.24 Pa
+2024-01-01 14:27:00,99.87°C,7.39 Pa,1.24 Pa
+2024-01-01 14:28:00,99.88°C,7.40 Pa,1.24 Pa
+2024-01-01 14:29:00,99.90°C,7.42 Pa,1.24 Pa
+2024-01-01 14:30:00,99.92°C,7.44 Pa,1.24 Pa
+2024-01-01 14:31:00,99.94°C,7.45 Pa,1.25 Pa
+2024-01-01 14:32:00,99.96°C,7.47 Pa,1.25 Pa
+2024-01-01 14:33:00,99.98°C,7.48 Pa,1.25 Pa
+2024-01-01 14:34:00,100.00°C,7.50 Pa,1.25 Pa
+2024-01-01 14:35:00,100.02°C,7.51 Pa,1.25 Pa
+2024-01-01 14:36:00,100.04°C,7.53 Pa,1.25 Pa
+2024-01-01 14:37:00,100.05°C,7.55 Pa,1.25 Pa
+2024-01-01 14:38:00,100.07°C,7.56 Pa,1.26 Pa
+2024-01-01 14:39:00,100.09°C,7.58 Pa,1.26 Pa
+2024-01-01 14:40:00,100.11°C,7.59 Pa,1.26 Pa
+2024-01-01 14:41:00,100.13°C,7.61 Pa,1.26 Pa
+2024-01-01 14:42:00,100.15°C,7.62 Pa,1.26 Pa
+2024-01-01 14:43:00,100.17°C,7.64 Pa,1.26 Pa
+2024-01-01 14:44:00,100.19°C,7.66 Pa,1.27 Pa
+2024-01-01 14:45:00,100.21°C,7.67 Pa,1.27 Pa
+2024-01-01 14:46:00,100.22°C,7.69 Pa,1.27 Pa
+2024-01-01 14:47:00,100.24°C,7.70 Pa,1.27 Pa
+2024-01-01 14:48:00,100.26°C,7.72 Pa,1.27 Pa
+2024-01-01 14:49:00,100.28°C,7.73 Pa,1.27 Pa
+2024-01-01 14:50:00,100.30°C,7.75 Pa,1.27 Pa
+2024-01-01 14:51:00,100.32°C,7.76 Pa,1.28 Pa
+2024-01-01 14:52:00,100.34°C,7.78 Pa,1.28 Pa
+2024-01-01 14:53:00,100.36°C,7.80 Pa,1.28 Pa
+2024-01-01 14:54:00,100.37°C,7.81 Pa,1.28 Pa
+2024-01-01 14:55:00,100.39°C,7.83 Pa,1.28 Pa
+2024-01-01 14:56:00,100.41°C,7.84 Pa,1.28 Pa
+2024-01-01 14:57:00,100.43°C,7.86 Pa,1.29 Pa
+2024-01-01 14:58:00,100.45°C,7.87 Pa,1.29 Pa
+2024-01-01 14:59:00,100.47°C,7.89 Pa,1.29 Pa
+2024-01-01 15:00:00,100.49°C,7.91 Pa,1.29 Pa
+2024-01-01 15:01:00,100.50°C,7.92 Pa,1.29 Pa
+2024-01-01 15:02:00,100.52°C,7.94 Pa,1.29 Pa
+2024-01-01 15:03:00,100.54°C,7.95 Pa,1.30 Pa
+2024-01-01 15:04:00,100.56°C,7.97 Pa,1.30 Pa
+2024-01-01 15:05:00,100.58°C,7.98 Pa,1.30 Pa
+2024-01-01 15:06:00,100.60°C,8.00 Pa,1.30 Pa
+2024-01-01 15:07:00,100.62°C,8.01 Pa,1.30 Pa
+2024-01-01 15:08:00,100.63°C,8.03 Pa,1.30 Pa
+2024-01-01 15:09:00,100.65°C,8.04 Pa,1.30 Pa
+2024-01-01 15:10:00,100.67°C,8.06 Pa,1.31 Pa
+2024-01-01 15:11:00,100.69°C,8.07 Pa,1.31 Pa
+2024-01-01 15:12:00,100.71°C,8.09 Pa,1.31 Pa
+2024-01-01 15:13:00,100.73°C,8.11 Pa,1.31 Pa
+2024-01-01 15:14:00,100.74°C,8.12 Pa,1.31 Pa
+2024-01-01 15:15:00,100.76°C,8.14 Pa,1.31 Pa
+2024-01-01 15:16:00,100.78°C,8.15 Pa,1.32 Pa
+2024-01-01 15:17:00,100.80°C,8.17 Pa,1.32 Pa
+2024-01-01 15:18:00,100.82°C,8.18 Pa,1.32 Pa
+2024-01-01 15:19:00,100.84°C,8.20 Pa,1.32 Pa
+2024-01-01 15:20:00,100.85°C,8.21 Pa,1.32 Pa
+2024-01-01 15:21:00,100.87°C,8.23 Pa,1.32 Pa
+2024-01-01 15:22:00,100.89°C,8.24 Pa,1.32 Pa
+2024-01-01 15:23:00,100.91°C,8.26 Pa,1.33 Pa
+2024-01-01 15:24:00,100.93°C,8.27 Pa,1.33 Pa
+2024-01-01 15:25:00,100.94°C,8.29 Pa,1.33 Pa
+2024-01-01 15:26:00,100.96°C,8.30 Pa,1.33 Pa
+2024-01-01 15:27:00,100.98°C,8.32 Pa,1.33 Pa
+2024-01-01 15:28:00,101.00°C,8.33 Pa,1.33 Pa
+2024-01-01 15:29:00,101.01°C,8.35 Pa,1.33 Pa
+2024-01-01 15:30:00,101.03°C,8.36 Pa,1.34 Pa
+2024-01-01 15:31:00,101.05°C,8.38 Pa,1.34 Pa
+2024-01-01 15:32:00,101.07°C,8.39 Pa,1.34 Pa
+2024-01-01 15:33:00,101.09°C,8.40 Pa,1.34 Pa
+2024-01-01 15:34:00,101.10°C,8.42 Pa,1.34 Pa
+2024-01-01 15:35:00,101.12°C,8.43 Pa,1.34 Pa
+2024-01-01 15:36:00,101.14°C,8.45 Pa,1.34 Pa
+2024-01-01 15:37:00,101.16°C,8.46 Pa,1.35 Pa
+2024-01-01 15:38:00,101.17°C,8.48 Pa,1.35 Pa
+2024-01-01 15:39:00,101.19°C,8.49 Pa,1.35 Pa
+2024-01-01 15:40:00,101.21°C,8.51 Pa,1.35 Pa
+2024-01-01 15:41:00,101.22°C,8.52 Pa,1.35 Pa
+2024-01-01 15:42:00,101.24°C,8.54 Pa,1.35 Pa
+2024-01-01 15:43:00,101.26°C,8.55 Pa,1.35 Pa
+2024-01-01 15:44:00,101.28°C,8.56 Pa,1.36 Pa
+2024-01-01 15:45:00,101.29°C,8.58 Pa,1.36 Pa
+2024-01-01 15:46:00,101.31°C,8.59 Pa,1.36 Pa
+2024-01-01 15:47:00,101.33°C,8.61 Pa,1.36 Pa
+2024-01-01 15:48:00,101.34°C,8.62 Pa,1.36 Pa
+2024-01-01 15:49:00,101.36°C,8.63 Pa,1.36 Pa
+2024-01-01 15:50:00,101.38°C,8.65 Pa,1.36 Pa
+2024-01-01 15:51:00,101.39°C,8.66 Pa,1.37 Pa
+2024-01-01 15:52:00,101.41°C,8.68 Pa,1.37 Pa
+2024-01-01 15:53:00,101.43°C,8.69 Pa,1.37 Pa
+2024-01-01 15:54:00,101.44°C,8.70 Pa,1.37 Pa
+2024-01-01 15:55:00,101.46°C,8.72 Pa,1.37 Pa
+2024-01-01 15:56:00,101.48°C,8.73 Pa,1.37 Pa
+2024-01-01 15:57:00,101.49°C,8.74 Pa,1.37 Pa
+2024-01-01 15:58:00,101.51°C,8.76 Pa,1.38 Pa
+2024-01-01 15:59:00,101.53°C,8.77 Pa,1.38 Pa
+2024-01-01 16:00:00,101.54°C,8.79 Pa,1.38 Pa
+2024-01-01 16:01:00,101.56°C,8.80 Pa,1.38 Pa
+2024-01-01 16:02:00,101.57°C,8.81 Pa,1.38 Pa
+2024-01-01 16:03:00,101.59°C,8.83 Pa,1.38 Pa
+2024-01-01 16:04:00,101.61°C,8.84 Pa,1.38 Pa
+2024-01-01 16:05:00,101.62°C,8.85 Pa,1.39 Pa
+2024-01-01 16:06:00,101.64°C,8.87 Pa,1.39 Pa
+2024-01-01 16:07:00,101.65°C,8.88 Pa,1.39 Pa
+2024-01-01 16:08:00,101.67°C,8.89 Pa,1.39 Pa
+2024-01-01 16:09:00,101.69°C,8.90 Pa,1.39 Pa
+2024-01-01 16:10:00,101.70°C,8.92 Pa,1.39 Pa
+2024-01-01 16:11:00,101.72°C,8.93 Pa,1.39 Pa
+2024-01-01 16:12:00,101.73°C,8.94 Pa,1.39 Pa
+2024-01-01 16:13:00,101.75°C,8.96 Pa,1.40 Pa
+2024-01-01 16:14:00,101.76°C,8.97 Pa,1.40 Pa
+2024-01-01 16:15:00,101.78°C,8.98 Pa,1.40 Pa
+2024-01-01 16:16:00,101.79°C,8.99 Pa,1.40 Pa
+2024-01-01 16:17:00,101.81°C,9.01 Pa,1.40 Pa
+2024-01-01 16:18:00,101.82°C,9.02 Pa,1.40 Pa
+2024-01-01 16:19:00,101.84°C,9.03 Pa,1.40 Pa
+2024-01-01 16:20:00,101.85°C,9.04 Pa,1.40 Pa
+2024-01-01 16:21:00,101.87°C,9.06 Pa,1.41 Pa
+2024-01-01 16:22:00,101.88°C,9.07 Pa,1.41 Pa
+2024-01-01 16:23:00,101.90°C,9.08 Pa,1.41 Pa
+2024-01-01 16:24:00,101.91°C,9.09 Pa,1.41 Pa
+2024-01-01 16:25:00,101.93°C,9.11 Pa,1.41 Pa
+2024-01-01 16:26:00,101.94°C,9.12 Pa,1.41 Pa
+2024-01-01 16:27:00,101.96°C,9.13 Pa,1.41 Pa
+2024-01-01 16:28:00,101.97°C,9.14 Pa,1.41 Pa
+2024-01-01 16:29:00,101.98°C,9.15 Pa,1.42 Pa
+2024-01-01 16:30:00,102.00°C,9.16 Pa,1.42 Pa
+2024-01-01 16:31:00,102.01°C,9.18 Pa,1.42 Pa
+2024-01-01 16:32:00,102.03°C,9.19 Pa,1.42 Pa
+2024-01-01 16:33:00,102.04°C,9.20 Pa,1.42 Pa
+2024-01-01 16:34:00,102.05°C,9.21 Pa,1.42 Pa
+2024-01-01 16:35:00,102.07°C,9.22 Pa,1.42 Pa
+2024-01-01 16:36:00,102.08°C,9.23 Pa,1.42 Pa
+2024-01-01 16:37:00,102.09°C,9.25 Pa,1.42 Pa
+2024-01-01 16:38:00,102.11°C,9.26 Pa,1.43 Pa

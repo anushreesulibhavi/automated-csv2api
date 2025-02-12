@@ -76,7 +76,7 @@ def upload_csv():
 
     try:
         # Load CSV into Pandas
-        df = pd.read_csv(filepath, on_bad_lines='warn')
+        df = pd.read_csv(filepath, )
         df.fillna(value=np.nan, inplace=True)  # Ensure missing values are NaN
 
         # Create SQL table dynamically
@@ -94,10 +94,10 @@ def upload_csv():
         return jsonify({"error": f"Error processing file: {str(e)}"}), 500
 
 @app.route("/api/<table_name>", methods=["GET"])
-def get_data(table_name,id):
+def get_data(table_name):
 
      # Clean the table name to prevent SQL injection
-    table_name = re.sub(r'[^a-z0-9_]+', '', table_name.lower())
+    #table_name = re.sub(r'[^a-z0-9_]+', '', table_name.lower())
 
     with app.app_context():
         try:
@@ -111,7 +111,7 @@ def get_data(table_name,id):
                 }), 404
 
 
-            result = db.session.execute(text(f'SELECT * FROM "{table_name}"WHERE id = {id}')).fetchall()
+            result = db.session.execute(text(f'SELECT * FROM "{table_name}"')).fetchall()
             if not result:
                 return jsonify({"error": "No data found"}), 404
 

@@ -1,10 +1,11 @@
-from flask import Flask, request, jsonify, session, render_template
-from flask import send_from_directory
+from flask import Flask, request, jsonify, session, render_template,send_from_directory
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import inspect, text
+from werkzeug.utils import secure_filename
 #from models import FileRecord  # Import your model
 import pandas as pd
 import os
+import re
 import numpy as np
 from flask_cors import CORS
 
@@ -60,48 +61,95 @@ def upload_csv():
     file = request.files["file"]
     if file.filename == "":
         return jsonify({"error": "No selected file"}), 400
+    
+    if not file.filename.lower().endswith('.csv'):
+        print("Uploaded file is not a CSV")
+        return jsonify({"error": "File must be a CSV"}), 400
 
     filename = file.filename
-    table_name = filename.split(".")[0].replace(" ", "_").lower()
+    table_name = filename.split(".")[0].replace(" ", "_").replace("-", "_").lower()
+
 
     # Save file
     filepath = os.path.join(UPLOAD_FOLDER, filename)
     file.save(filepath)
 
-    # Load CSV into Pandas
-    df = pd.read_csv(filepath, on_bad_lines='warn')
-    df.fillna(value=np.nan, inplace=True)  # Ensure missing values are NaN
+    try:
+        # Load CSV into Pandas
+        df = pd.read_csv(filepath, on_bad_lines='warn')
+        df.fillna(value=np.nan, inplace=True)  # Ensure missing values are NaN
 
-    # Create SQL table dynamically
-    with app.app_context():
-        db.session.execute(text(f"DROP TABLE IF EXISTS {table_name}"))
-        df.to_sql(table_name, db.engine, index=False)
+        # Create SQL table dynamically
+        with app.app_context():
+            db.session.execute(text(f'DROP TABLE IF EXISTS "{table_name}"'))
+            df.to_sql(table_name, db.engine, index=False, if_exists="replace")
 
-        # Save file metadata
-        file_record = FileRecord(filename=filename, table_name=table_name)
-        db.session.add(file_record)
-        db.session.commit()
+            # Save file metadata
+            file_record = FileRecord(filename=filename, table_name=table_name)
+            db.session.add(file_record)
+            db.session.commit()
 
-    return jsonify({"message": f"API created at /api/{table_name}"}), 201
+        return jsonify({"message": f'API created at /api/"{table_name}"'}), 201
+    except Exception as e:
+        return jsonify({"error": f"Error processing file: {str(e)}"}), 500
 
 @app.route("/api/<table_name>", methods=["GET"])
-def get_data(table_name):
+def get_data(table_name,id):
+
+     # Clean the table name to prevent SQL injection
+    table_name = re.sub(r'[^a-z0-9_]+', '', table_name.lower())
+
     with app.app_context():
         try:
             inspector = inspect(db.engine)
             print("Available tables:", inspector.get_table_names())  # Debugging
 
-            result = db.session.execute(text(f"SELECT * FROM {table_name}")).fetchall()
+            if table_name not in inspector.get_table_names():
+                return jsonify({
+                    "error": "Table not found",
+                    "message": f"No data found for table '{table_name}'"
+                }), 404
+
+
+            result = db.session.execute(text(f'SELECT * FROM "{table_name}"WHERE id = {id}')).fetchall()
             if not result:
                 return jsonify({"error": "No data found"}), 404
 
             # Convert result to a list of dicts
             columns = [col for col in result[0]._fields]
             data = [dict(zip(columns, row)) for row in result]
-            return jsonify(data)
+            return jsonify({"table_name": table_name,
+                "row_count": len(data),
+                "columns": columns,
+                "data": data
+            })
         except Exception as e:
             print("Error:", str(e))  # Debugging
             return jsonify({"error": "API not found or invalid table"}), 404
+        
+@app.route("/api/tables", methods=["GET"])
+def list_tables():
+    with app.app_context():
+        try:
+            # Get all file records
+            records = FileRecord.query.all()
+            tables = [{
+                "filename": record.filename,
+                "table_name": record.table_name,
+                "api_endpoint": f"/api/{record.table_name}"
+            } for record in records]
+            
+            return jsonify({
+                "count": len(tables),
+                "tables": tables
+            })
+        except Exception as e:
+            return jsonify({
+                "error": "Database error",
+                "message": str(e)
+            }), 500
+
+
 
 if __name__ == "__main__":
     app.run(debug=True)

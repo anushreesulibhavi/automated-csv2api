@@ -15,7 +15,8 @@
 
         <hr>
 
-        <h2>Upload CSV File</h2>
+        <h2>Upload CSV File </h2>
+        <p class="subtext">Please use the following format for filenames: csv_upload.csv</p>
         <input type="file" id="csvFile">
         <button onclick="uploadCSV()">Upload</button>
         <p id="upload-status"></p>
@@ -46,6 +47,23 @@
                     return;
                 }
 
+                const file = fileInput.files[0];
+                const fileName = file.name.toLowerCase();
+                const fileExtension = fileName.split('.').pop();
+
+                // Validate file extension
+                if (!fileName.endsWith(".csv")) {
+                    alert("Invalid file format! Please upload a CSV file.");
+                    return;
+                }
+
+                // Validate filename format using regex
+                const validFilenameRegex = /^[a-zA-Z0-9_]+\.csv$/;
+                if (!validFilenameRegex.test(fileName)) {
+                    alert("Invalid filename, Example format: csv_upload.csv");
+                    return;
+                }
+
                 const formData = new FormData();
                 formData.append("file", fileInput.files[0]);
 
@@ -55,7 +73,12 @@
                 });
 
                 const result = await response.json();
+
+                if (!result.success) {
+                    alert(result.message);  // Alert user if file format is incorrect
+                } else {
                 document.getElementById("upload-status").innerText = result.message;
+                }
             }
 
             async function fetchData() {

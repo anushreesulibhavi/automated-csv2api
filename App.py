@@ -5,7 +5,7 @@ from werkzeug.utils import secure_filename
 #from models import FileRecord  # Import your model
 import pandas as pd
 import os
-import re
+#import re
 import numpy as np
 from flask_cors import CORS
 
@@ -15,6 +15,7 @@ app.secret_key = "supersecretpassword"  # Change this in production
 CORS(app)
 
 # Configure SQLite database
+
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///database.db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 db = SQLAlchemy(app)
@@ -69,14 +70,21 @@ def upload_csv():
     filename = file.filename
     table_name = filename.split(".")[0].replace(" ", "_").replace("-", "_").lower()
 
-
+    # Check if the table already exists in the database
+    existing_record = FileRecord.query.filter_by(table_name=table_name).first()
+    if existing_record:
+        return jsonify({
+            "success": False,
+            "message": f"File already exists. You can fetch data using the API: {table_name}"
+        }), 400
+    
     # Save file
     filepath = os.path.join(UPLOAD_FOLDER, filename)
     file.save(filepath)
 
     try:
         # Load CSV into Pandas
-        df = pd.read_csv(filepath, )
+        df = pd.read_csv(filepath)
         df.fillna(value=np.nan, inplace=True)  # Ensure missing values are NaN
 
         # Create SQL table dynamically
@@ -153,3 +161,5 @@ def list_tables():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+

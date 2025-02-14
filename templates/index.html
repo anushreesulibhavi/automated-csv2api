@@ -8,25 +8,41 @@
 </head>
 <body>
     <div class="container">
-        <h2>Login</h2>
+
+        <h1>Welcome!<h1>
+        <h2>Upload a CSV, Get an API <br><span style="font-size: 18px;">Simple & Fast!</span></h2>
+        <p class="subtext">Please login to continue..</p>
+        
+        <h2> Login</h2>
         <input type="password" id="password" placeholder="Enter Admin Password">
         <button onclick="login()">Login</button>
-        <p id="login-status"></p>
+        <p id="login-status"></p>  
+
+        <div id="upload-section" style="display:none;">
+            <hr>
+            <h2>Upload CSV File</h2>
+            <p class="subtext">Please use the following format for filenames: csv_upload.csv</p>
+            <input type="file" id="csvFile">
+            <button onclick="uploadCSV()">Upload</button>
+            <p id="upload-status"></p>
+            <p id="api-name-status"></p>
+            <!-- <button id="generate-api-button" style="display:none;" onclick="generateAPI()">Generate API</button> -->
+            <br> 
+            <button id="view-apis-button" onclick="viewAPIs()">View Available APIs</button>
+            <div id="api-list"><br></div>
+        </div>
 
         <hr>
 
-        <h2>Upload CSV File </h2>
-        <p class="subtext">Please use the following format for filenames: csv_upload.csv</p>
-        <input type="file" id="csvFile">
-        <button onclick="uploadCSV()">Upload</button>
-        <p id="upload-status"></p>
-
-        <hr>
-
-        <h2>Fetch API Data</h2>
-        <input type="text" id="apiName" placeholder="Enter API Name (CSV filename)">
-        <button onclick="fetchData()">Fetch Data</button>
-        <pre id="apiData"></pre>
+        <div id="fetchapi-section" style="display:none;">
+            <h2>Fetch API Data</h2>
+            <input type="text" id="apiName" placeholder="Enter API Name (CSV filename)">
+            <input type="text" id="searchParam" placeholder="Parameter to search">
+            <input type="text" id="searchValue" placeholder="Value to search">
+            <button onclick="fetchData()">Fetch Data</button>
+            <pre id="apiData"></pre>
+        </div>
+        
 
         <script>
             async function login() {
@@ -38,6 +54,9 @@
                 });
                 const result = await response.json();
                 document.getElementById("login-status").innerText = result.message;
+                if (result.message === "Login successful!!") {
+                    document.getElementById("upload-section").style.display = "block"; // Show upload section
+                }
             }
 
             async function uploadCSV() {
@@ -73,22 +92,79 @@
                 });
 
                 const result = await response.json();
-
-                if (!result.success) {
-                    alert(result.message);  // Alert user if file format is incorrect
-                } else {
+                console.log(result);
                 document.getElementById("upload-status").innerText = result.message;
+                // document.getElementById("api-name-status").innerText = `Generated API`; // Show generated API name
+                //document.getElementById("generate-api-button").style.display = "block"; // Show generate API button
+                document.getElementById("fetchapi-section").style.display = "block"; // Show fetch API section
+
+                // if (result.message === "Generated API") {
+                //     document.getElementById("fetchapi-section").style.display = "block"; // Show upload section
+                // }
+            }
+
+            // async function generateAPI() {
+            //     const apiName = document.getElementById("apiName").value;
+            //     const response = await fetch(`/api/generate/${apiName}`, {
+            //         method: "POST"
+            //     });
+            //     const result = await response.json();
+            //     alert(result.message);
+            // }
+
+            async function viewAPIs() {
+                const apiListDiv = document.getElementById("api-list");
+                // Toggle visibility: If already visible, hide it
+                if (apiListDiv.style.display === "block") {
+                    apiListDiv.style.display = "none";
+                    return;
+                }
+
+                // Show the API list and fetch data if hidden
+                apiListDiv.style.display = "block";
+                apiListDiv.innerHTML = "Loading...";
+
+                const response = await fetch('/api/tables');
+                const result = await response.json();
+                // const apiListDiv = document.getElementById("api-list");
+                apiListDiv.innerHTML = ""; // Clear previous results
+
+                if (result.tables && result.tables.length > 0) {
+                    result.tables.forEach(table => {
+                        const apiInfo = document.createElement("div");
+                        apiInfo.innerText = `  API Name: ${table.table_name}, Endpoint: ${table.api_endpoint}`;
+                        apiListDiv.appendChild(apiInfo);
+                    });
+                } else {
+                    apiListDiv.innerText = "No APIs available.";
                 }
             }
 
+            // async function searchData() {
+            //     const apiName = document.getElementById("apiName").value;
+            //     const param = document.getElementById("searchParam").value;
+            //     const value = document.getElementById("searchValue").value;
+
+            //     if (!apiName || !param || !value) {
+            //         alert("Please enter API name, parameter, and value to search.");
+            //         return;
+            //     }
+
+            //     const response = await fetch(`/api/${apiName}/search?param=${param}&value=${value}`);
+            //     const result = await response.json();
+            //     document.getElementById("apiData").innerText = JSON.stringify(result, null, 2);
+            // }
+
             async function fetchData() {
                 const apiName = document.getElementById("apiName").value;
+                const param = document.getElementById("searchParam").value;
+                const value = document.getElementById("searchValue").value;
                 if (!apiName) {
                     alert("Enter API name (without .csv)");
                     return;
                 }
 
-                const response = await fetch(`/api/${apiName}`);
+                const response = await fetch(`/api/${apiName}/search?param=${param}&value=${value}`);
                 const result = await response.json();
                 document.getElementById("apiData").innerText = JSON.stringify(result, null, 2);
             }

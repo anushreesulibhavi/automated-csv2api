@@ -1,8 +1,9 @@
-from flask import Flask, request, jsonify, session, render_template,send_from_directory
+from flask import Flask, request, jsonify, session, render_template,send_from_directory,Response
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import inspect, text
 from werkzeug.utils import secure_filename
 #from models import FileRecord  # Import your model
+import time
 import pandas as pd
 import os
 import re
@@ -11,7 +12,7 @@ from flask_cors import CORS
 
 #app = Flask(__name__, static_folder="../frontend/build", static_url_path="/")
 app = Flask(__name__, static_folder='static')
-app.secret_key = "supersecretpassword"  # Change this in production
+app.secret_key = "supersecretpassword"  
 CORS(app)
 
 # Configure SQLite database
@@ -102,39 +103,7 @@ def upload_csv():
         print(f"Error processing file: {str(e)}")  # Log the error
         return jsonify({"error": f"Error processing file: {str(e)}"}), 500
 
-@app.route("/api/<table_name>", methods=["GET"])
-def get_data(table_name):
 
-     # Clean the table name to prevent SQL injection
-    table_name = re.sub(r'[^a-z0-9_]+', '', table_name.lower())
-
-    with app.app_context():
-        try:
-            inspector = inspect(db.engine)
-            print("Available tables:", inspector.get_table_names())  # Debugging
-
-            if table_name not in inspector.get_table_names():
-                return jsonify({
-                    "error": "Table not found",
-                    "message": f"No data found for table '{table_name}'"
-                }), 404
-
-
-            result = db.session.execute(text(f'SELECT * FROM "{table_name}"')).fetchall()
-            if not result:
-                return jsonify({"error": "No data found"}), 404
-
-            # Convert result to a list of dicts
-            columns = [col for col in result[0]._fields]
-            data = [dict(zip(columns, row)) for row in result]
-            return jsonify({"table_name": table_name,
-                "row_count": len(data),
-                "columns": columns,
-                "data": data
-            })
-        except Exception as e:
-            return jsonify({"error": str(e)}), 500
- 
 
 @app.route("/api/generate/<table_name>", methods=["POST"])
 def generate_api(table_name):
@@ -159,32 +128,56 @@ def search_data(table_name):
             if table_name not in inspector.get_table_names():
                 return jsonify({"error": "Table not found"}), 404
             
-            # query = text(f'SELECT * FROM "{table_name}" WHERE {param} = :value')
-            # result = db.session.execute(query, {"value": value}).fetchall()
-
             table_name = re.sub(r'[^a-z0-9_]+', '', table_name.lower())
 
-            if param and value:
-                query = text(f'SELECT * FROM "{table_name}" WHERE {param} = :value')
-                result = db.session.execute(query, {"value": value}).fetchall()
-            elif param:
-                query = text(f'SELECT * FROM "{table_name}" WHERE {param} IS NOT NULL')
-                result = db.session.execute(query).fetchall()
-            elif value:
-                query = text(f'SELECT * FROM "{table_name}" WHERE {value} IS NOT NULL')
-                result = db.session.execute(query).fetchall()
-            else:
-                result = db.session.execute(text(f'SELECT * FROM "{table_name}"')).fetchall()
+            # Fetch data from the database
+            query = text(f'SELECT * FROM "{table_name}"')
+            result = db.session.execute(query, {"value": value}).fetchall()
 
-            if not result:
-                return jsonify({"error": "No data found"}), 404
-            
             # Convert result to a list of dicts
             columns = [col for col in result[0]._fields]
-            data = [dict(zip(columns, row)) for row in result]  
-            return jsonify(data), 200
+            data = [dict(zip(columns, row)) for row in result]
+
+            
+            if not data:
+                return jsonify({"error": "No data found"}), 404
+            
+            # Get the current index based on the current time
+            current_index = int(time.time()) % len(data)
+
+            # Get the row at the current index
+            row = data[current_index]
+            timestamp = row.get('Timestamp', f"2023-10-01 12:00:0{current_index}")
+            if param in row:
+                value = row[param]
+                result_string = f"value for {param} at {timestamp}: {value}"
+                return Response(result_string, mimetype="text/plain"), 200
+
+            return jsonify({"error": "Parameter not found in data"}), 404
+
         except Exception as e:
-            return jsonify({"error": str(e)}), 500 
+            return jsonify({"error": str(e)}), 500
+            
+        
+@app.route("/api/<table_name>/parameters", methods=["GET"])
+def get_parameters(table_name):
+    # Clean the table name to prevent SQL injection
+    table_name = re.sub(r'[^a-z0-9_]+', '', table_name.lower())
+
+    with app.app_context():
+        try:
+            inspector = inspect(db.engine)
+            if table_name not in inspector.get_table_names():
+                return jsonify({"error": "Table not found"}), 404
+            
+            # Fetch the column names from the specified table
+            result = db.session.execute(text(f'SELECT * FROM "{table_name}" LIMIT 1')).keys()
+            parameters = list(result)  # Get the column names as parameters
+
+            return jsonify({"parameters": parameters}), 200
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+
 
 @app.route("/api/tables", methods=["GET"])
 def list_tables():

@@ -9,14 +9,16 @@
 <body>
     <div class="container">
 
-        <h1>Welcome!<h1>
-        <h2>Upload a CSV, Get an API <br><span style="font-size: 18px;">Simple & Fast!</span></h2>
-        <p class="subtext">Please login to continue..</p>
+        <h1 id="welcome-message">Welcome!<h1>
+        <h2 id="login-prompt">Upload a CSV, Get an API <br><span style="font-size: 18px;">Simple & Fast!</span></h2>
+        <p id="continue-login" class="subtext">Please login to continue..</p>
         
-        <h2> Login</h2>
-        <input type="password" id="password" placeholder="Enter Admin Password">
-        <button onclick="login()">Login</button>
-        <p id="login-status"></p>  
+        <div id="login-section">
+            <h2> Login</h2>
+            <input type="password" id="password" placeholder="Enter Admin Password">
+            <button onclick="login()">Login</button>
+            <p id="login-status"></p> 
+        </div> 
 
         <div id="upload-section" style="display:none;">
             <hr>
@@ -26,25 +28,24 @@
             <button onclick="uploadCSV()">Upload</button>
             <p id="upload-status"></p>
             <p id="api-name-status"></p>
-            <!-- <button id="generate-api-button" style="display:none;" onclick="generateAPI()">Generate API</button> -->
             <br> 
-            <button id="view-apis-button" onclick="viewAPIs()">View Available APIs</button>
-            <div id="api-list"><br></div>
-        </div>
 
-        <hr>
+            <input list="api-options" id="api-dropdown" placeholder="Select or type an API" onchange="showApiParameters()" />
+            <datalist id="api-options" ></datalist>
 
-        <div id="fetchapi-section" style="display:none;">
-            <h2>Fetch API Data</h2>
-            <input type="text" id="apiName" placeholder="Enter API Name (CSV filename)">
-            <input type="text" id="searchParam" placeholder="Parameter to search">
-            <input type="text" id="searchValue" placeholder="Value to search">
-            <button onclick="fetchData()">Fetch Data</button>
+            <div id="api-parameters" style="display:none;">
+                <h3>Available Parameters:</h3>
+                <div id="parameter-list"></div>
+            </div>
             <pre id="apiData"></pre>
+
         </div>
         
+        
+        <hr>
 
         <script>
+
             async function login() {
                 const password = document.getElementById("password").value;
                 const response = await fetch("/login", {
@@ -56,6 +57,11 @@
                 document.getElementById("login-status").innerText = result.message;
                 if (result.message === "Login successful!!") {
                     document.getElementById("upload-section").style.display = "block"; // Show upload section
+                    document.getElementById("login-section").style.display = "none"; // Hide login section
+                    document.getElementById("welcome-message").style.display = "none"; // Hide welcome message
+                    document.getElementById("login-prompt").style.display = "none"; // Hide login prompt
+                    document.getElementById("continue-login").style.display = "none"; // Hide login prompt
+                   
                 }
             }
 
@@ -94,10 +100,8 @@
                 const result = await response.json();
                 console.log(result);
                 document.getElementById("upload-status").innerText = result.message;
-                // document.getElementById("api-name-status").innerText = `Generated API`; // Show generated API name
-                //document.getElementById("generate-api-button").style.display = "block"; // Show generate API button
-                document.getElementById("fetchapi-section").style.display = "block"; // Show fetch API section
-
+                //document.getElementById("fetchapi-section").style.display = "none"; 
+                await loadAPIs(); // Load available APIs after upload
                 // if (result.message === "Generated API") {
                 //     document.getElementById("fetchapi-section").style.display = "block"; // Show upload section
                 // }
@@ -111,6 +115,68 @@
             //     const result = await response.json();
             //     alert(result.message);
             // }
+
+            async function loadAPIs() {
+                const response = await fetch('/api/tables');
+                const result = await response.json();
+                const apiOptions = document.getElementById("api-options");
+                apiOptions.innerHTML = ''; // Reset options
+                // const apiDropdown = document.getElementById("api-dropdown");
+                // apiDropdown.innerHTML = '<option value="">Select an API</option>'; 
+
+                if (result.tables && result.tables.length > 0) {
+                    result.tables.forEach(table => {
+                        const option = document.createElement("option");
+                        option.value = table.table_name;
+                        option.innerText = table.api_endpoint;
+                        //apiDropdown.appendChild(option);
+                        apiOptions.appendChild(option);
+
+                    });
+                }
+            }
+
+            function showApiParameters() {
+
+                //document.getElementById("fetchapi-section").style.display = "block"; // Show fetch API section
+                const apiName = document.getElementById("api-dropdown").value|| document.getElementById("apiName").value;
+                const parameterList = document.getElementById("parameter-list");
+                parameterList.innerHTML = ""; // Clear previous parameters
+
+                if (apiName) {
+                    // Fetch parameters for the selected API
+                    fetch(`/api/${apiName}/parameters`) // Assuming you have an endpoint to get parameters
+                        .then(response => response.json())
+                        .then(data => {
+                            data.parameters.forEach(param => {
+                                const paramDiv = document.createElement("div");
+                                paramDiv.innerText = `Parameter: ${param}`;
+                                const copyButton = document.createElement("button");
+                                copyButton.innerText = "Copy URL";
+                                copyButton.className = "copy-button"; // Add class for styling
+                                copyButton.onclick = () => copyToClipboard(`/api/${apiName}/search?param=${param}`);
+                                paramDiv.appendChild(copyButton);
+                                parameterList.appendChild(paramDiv);
+                            });
+                            document.getElementById("api-parameters").style.display = "block"; // Show parameters section
+                        });
+                } else {
+                    document.getElementById("api-parameters").style.display = "none"; // Hide parameters section
+                }
+            }
+
+            
+            function copyToClipboard(url) {
+
+                const baseUrl = window.location.origin; // Dynamically gets the current base URL
+                const fullUrl = `${baseUrl}${url}`;
+    
+                navigator.clipboard.writeText(fullUrl).then(() => {
+                    alert("URL copied to clipboard!" + fullUrl);
+                }, () => {
+                    alert("Failed to copy URL.");
+                });
+            }
 
             async function viewAPIs() {
                 const apiListDiv = document.getElementById("api-list");
@@ -139,22 +205,6 @@
                     apiListDiv.innerText = "No APIs available.";
                 }
             }
-
-            // async function searchData() {
-            //     const apiName = document.getElementById("apiName").value;
-            //     const param = document.getElementById("searchParam").value;
-            //     const value = document.getElementById("searchValue").value;
-
-            //     if (!apiName || !param || !value) {
-            //         alert("Please enter API name, parameter, and value to search.");
-            //         return;
-            //     }
-
-            //     const response = await fetch(`/api/${apiName}/search?param=${param}&value=${value}`);
-            //     const result = await response.json();
-            //     document.getElementById("apiData").innerText = JSON.stringify(result, null, 2);
-            // }
-
             async function fetchData() {
                 const apiName = document.getElementById("apiName").value;
                 const param = document.getElementById("searchParam").value;
@@ -172,3 +222,5 @@
     </div>
 </body>
 </html>
+
+

@@ -153,10 +153,10 @@ def search_data(table_name):
                 result_string = f"value for {param} at {timestamp}: {value}"
                 return Response(result_string, mimetype="text/plain"), 200
 
-            return jsonify({"error": "Parameter not found in data"}), 404
+            return Response("Parameter not found in data"), 404
 
         except Exception as e:
-            return jsonify({"error": str(e)}), 500
+            return Response(str(e)), 500
             
         
 @app.route("/api/<table_name>/parameters", methods=["GET"])

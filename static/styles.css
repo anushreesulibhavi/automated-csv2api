@@ -14,11 +14,15 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.parameter-container {
+    margin-bottom: 10px; /* Adjust the value as needed for more or less space */
+}
+
 .copy-button {
     font-size: 12px; 
-    padding: 5px 10px; 
-    margin-left: 500px; /* Push to the right */
-    display: inline-block; 
+    padding: 5px 5px; 
+    margin-left: 25px; 
+    /* display: inline-block;  */
     cursor: pointer; /* Change cursor to pointer */
 }
 

@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}"> 
     <title>Upload CSV</title>
 </head>
-<body>
+<body onload="loadAPIs()">
     <div class="container">
 
         <h1 id="welcome-message">Welcome!<h1>
@@ -150,7 +150,15 @@
                         .then(data => {
                             data.parameters.forEach(param => {
                                 const paramDiv = document.createElement("div");
-                                paramDiv.innerText = `Parameter: ${param}`;
+                                //paramDiv.innerText = `Parameter: ${param}`;
+                                paramDiv.className = "parameter-container"; // Add the new class for spacing
+                                paramDiv.style.display = "flex"; // Use flexbox for alignment
+                                paramDiv.style.justifyContent = "space-between"; // Space between items
+                                
+                                const paramText = document.createElement("span");
+                                paramText.innerText = `Parameter: ${param}`;
+                                paramDiv.appendChild(paramText);
+                                
                                 const copyButton = document.createElement("button");
                                 copyButton.innerText = "Copy URL";
                                 copyButton.className = "copy-button"; // Add class for styling

@@ -150,7 +150,7 @@ def search_data(table_name):
             timestamp = row.get('Timestamp', f"2023-10-01 12:00:0{current_index}")
             if param in row:
                 value = row[param]
-                result_string = f"value for {param} at {timestamp}: {value}"
+                result_string = f"{value}"
                 return Response(result_string, mimetype="text/plain"), 200
 
             return Response("Parameter not found in data"), 404
